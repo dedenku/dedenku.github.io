@@ -1,4 +1,4 @@
-document.write("Hello World")
+document.write("Hello World ")
 function sayhello(){
   alert("Hello World")
 }
